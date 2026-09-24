@@ -1,0 +1,17 @@
+[
+  { "menuItemId": 1, "name": "Cơm gà", "price": 32000 },
+  { "menuItemId": 2, "name": "Bún bò", "price": 37000 },
+  { "menuItemId": 3, "name": "Bánh mì trứng", "price": 15000 },
+  { "menuItemId": 4, "name": "Trà đá", "price": 3000 },
+  { "menuItemId": 5, "name": "Nước suối", "price": 5000 },
+  { "menuItemId": 6, "name": "Cơm sườn", "price": 35000 },
+  { "menuItemId": 7, "name": "Cơm trứng", "price": 25000 },
+  { "menuItemId": 8, "name": "Mì Quảng", "price": 30000 },
+  { "menuItemId": 9, "name": "Phở bò", "price": 40000 },
+  { "menuItemId": 10, "name": "Bún thịt nướng", "price": 30000 },
+  { "menuItemId": 11, "name": "Mì xào bò", "price": 35000 },
+  { "menuItemId": 12, "name": "Xôi gà", "price": 20000 },
+  { "menuItemId": 13, "name": "Bánh bao", "price": 15000 },
+  { "menuItemId": 14, "name": "Sữa đậu nành", "price": 10000 },
+  { "menuItemId": 15, "name": "Cà phê sữa", "price": 18000 }
+]
